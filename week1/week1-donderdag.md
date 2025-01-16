@@ -1,6 +1,6 @@
 # Logboek
 
-**Datum:** `[15/01/2025]`  
+**Datum:** `[16/01/2025]`  
 **Studentnaam:** `[Ramon De Raes]`  
 **Groepsnaam:** `[De Badeendjes]`
 
@@ -10,9 +10,9 @@
 
 > **Activiteiten:**
 
-- Ik heb met de groep gebrainstormd over ons concept en feedback gevraagd over onze ideeen bij de leerkrachten.
-- Ik heb onderzocht hoe we onze AI-functie gaan aanpakken, onderzocht hoe gorse.io werkt.
-- Ik heb de kalenderpagina gemaakt in de wireframe.
+- Ik heb aan de wireframe gewerkt.
+- Feedback gevraagd over wireframe bij docent.
+- Wireframe aangepast adhv feedback.
 
 ---
 
@@ -20,11 +20,11 @@
 
 > **Nieuwe skills:**
 
-- ik heb nog niet helemaal geleerd hoe gorse.io werkt, maar het is wel al iets duidelijker.
+- /
 
 ## 3) Wat is mijn gevoel over vandaag?
 
 > **Algmeeen gevoel:**
-- tevreden 😊
+- teleurgesteld 😒
 
 _Kopieer dit sjabloon voor je volgende dagen en pas de antwoorden telkens aan!_
