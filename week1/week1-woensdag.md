@@ -10,21 +10,25 @@
 
 > **Activiteiten:**
 
-- Ik heb met de groep gebrainstormd over ons concept en feedback gevraagd over onze ideeen bij de leerkrachten.
-- Ik heb onderzocht hoe we onze AI-functie gaan aanpakken, onderzocht hoe gorse.io werkt.
-- Ik heb de kalenderpagina gemaakt in de wireframe.
+- Samen met mijn groep gebrainstormd over ons concept en feedback gevraagd aan de leerkrachten:
+    - We hebben geconcludeerd dat ons eerste idee, een chatbot, niet uitdagend genoeg was en besloten op zoek te gaan naar een 
+      nieuw concept.
+    - Ons tweede concept, een recommendation systeem, werd wel goedgekeurd.
 
----
+- Onderzocht hoe we onze AI-functie kunnen ontwikkelen:
+    - Samen met Wout en Qwinte heb ik gorse.io onderzocht.
+    
+- In Figma de kalenderpagina van de wireframe ontworpen.
 
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
 > **Nieuwe skills:**
 
-- ik heb nog niet helemaal geleerd hoe gorse.io werkt, maar het is wel al iets duidelijker.
+- Ik heb kennisgemaakt met de AI-tool gorse.io. Hoewel ik het systeem nog niet volledig begrijp, heb ik nu wel een basisinzicht in hoe het werkt.
 
 ## 3) Wat is mijn gevoel over vandaag?
 
 > **Algmeeen gevoel:**
-- tevreden 😊
 
-_Kopieer dit sjabloon voor je volgende dagen en pas de antwoorden telkens aan!_
+- Ik ben tevreden met de vooruitgang die we vandaag hebben geboekt. 😊
+

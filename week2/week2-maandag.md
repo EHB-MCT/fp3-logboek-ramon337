@@ -10,21 +10,21 @@
 
 > **Activiteiten:**
 
-- feedback wireframe doorgenomen met de groep en nagedacht voor oplossingen. 
-  (feedback: minder technisch denken en meer vanuit persona.)
-- ruwe schets gemaakt van de flow van onze site. hiervoor nog feedback gevraagd aan de docenten.  
+- Samen met de groep de feedback op onze wireframe van vorige week doorgenomen en nagedacht over oplossingen.
+  - Feedback: Minder technisch denken en meer vanuit de persona's werken.
+              Voorbeelden van bestelsystemen en AI-chatbots bekijken ter inspiratie.
 
----
+- Een ruwe schets gemaakt van de nieuwe flow van onze site.
+  - Feedback gevraagd aan de docenten over de schets:
+    - Feedback: "Dit is al beter, maar het moet nog verder uitgewerkt worden en vertaald naar een design."
 
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
 > **Nieuwe skills:**
 
-- ruwe schets maken van onze flow aan de hand van de feedback.
+- Ik heb geleerd hoe ik een ruwe schets kan maken van een websiteflow op basis van feedback en inspiratiebronnen.
 
 ## 3) Wat is mijn gevoel over vandaag?
 
 > **Algmeeen gevoel:**
-- onzeker 🤔
-
-_Kopieer dit sjabloon voor je volgende dagen en pas de antwoorden telkens aan!_
+- Onzeker, omdat ik nog niet helemaal zeker ben of onze aanpak aan de verwachtingen zal voldoen. 🤔

@@ -9,21 +9,21 @@
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
 > **Activiteiten:**
-- Opnieuw aan wireframe gewerkt (samen met Sam, stijn en Ephram). Nu is het grotendeels afgewerkt. Misschien nog handig om morgen (donderdag) hier nog feedback voor te vragen. We hebben nu ook meer informatie na de user testing.
+- Verder gewerkt aan de wireframe, samen met Sam, Stijn en Ephram. De wireframe is grotendeels afgewerkt. We overwegen morgen 
+  (donderdag) nog extra feedback te vragen om alles definitief te maken. Dankzij de resultaten uit de user testing hebben we betere inzichten gekregen.
 
-- zaalverhuur pagina beginnen coderen in front end. Dit gaat redelijk vlot en zou niet lang meer duren om dit af te hebben
+- Begonnen met de codering van de zaalverhuur.html-pagina in de front-end. Dit verloopt vlot, en de pagina zou snel afgerond 
+  moeten zijn.
 
 
 
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
 > **Nieuwe skills:**
-- componenten maken in figma
+- Ik heb geleerd hoe je componenten moet maken in figma.
 
 
 ## 3) Wat is mijn gevoel over vandaag?
 
 > **Algmeeen gevoel:**
-🙃 blij
-
-_Kopieer dit sjabloon voor je volgende dagen en pas de antwoorden telkens aan!_
+blij, we hebben een grote stap gemaakt vandaag. 🙃
