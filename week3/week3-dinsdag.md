@@ -1,6 +1,6 @@
 # Logboek
 
-**Datum:** `[27/01/2025]`  
+**Datum:** `[28/01/2025]`  
 **Studentnaam:** `[Ramon De Raes]`  
 **Groepsnaam:** `[De Badeendjes]`
 
@@ -9,14 +9,15 @@
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
 > **Activiteiten:**
-- De filter aangepast in index.html: 2 filteropties gemaakt in plaats van 1. Deze is nu ook responsive.
-- In shoppingBasket.html de "voeg items toe" button aangepast. En deze ook laten veranderen in "+" in mobile.
-- Ik heb een kleine aanpassing gedaan in het hamburgermenu zodat het geen ruimte heeft tussen de menu-opties.
+- Filter in index.html aangepast: De filter is nu ook volledig responsive, zodat deze goed werkt op zowel desktop als mobiele apparaten.
+- "Voeg items toe"-button aangepast in shoppingBasket.html: Op mobiele apparaten verandert de knop nu in een "+"-icoon voor een compactere weergave.
+- Hamburgermenu verbeterd: De ruimte tussen de menu-opties verwijderd.
+- aan de poster gewerkt in figma (samen met sam en stijn)
 
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
 > **Nieuwe skills:**
-- Ik heb meer geleerd over 360 cameras omdat Qwinte en Ephram deze hebben uitgeprobeerd.
+- Vandaag heb ik meer geleerd over 360°-camera’s doordat Qwinte en Ephram deze hebben uitgetest. Ik begrijp nu beter hoe ze werken en wat de mogelijkheden zijn.
 
 
 ## 3) Wat is mijn gevoel over vandaag?
